@@ -1,1 +1,9 @@
 Exploring Git 
+
+git init
+initializes a folder as a git repo
+
+git status
+we can know what is the status of our folder
+
+I am doing changes
